@@ -1,1 +1,3 @@
+git revert commit 1
 this is Sample File 2
+this is comparion lecture, change in file 2
