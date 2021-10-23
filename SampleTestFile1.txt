@@ -1,1 +1,2 @@
+git revert change 2
 this is Sample File 1
